@@ -6,6 +6,7 @@ import toolrental.constants.ToolBrand;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
 import java.text.DecimalFormat;
+
 @Getter
 public class RentalAgreement {
     private final String toolCode;
