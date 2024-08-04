@@ -8,7 +8,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ToolLoader {
-
     public static List<Tool> loadTools(){
         List<Tool> tools = new ArrayList<>();
         tools.add(new Tool("CHNS", ToolType.CHAINSAW, ToolBrand.STIHL));
