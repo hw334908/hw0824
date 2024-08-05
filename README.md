@@ -22,8 +22,8 @@ This application is a point-of-sale tool for a store, like Home Depot, that rent
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/hw334908/tool-rental-app.git
-    cd tool-rental-app
+    git clone https://github.com/hw334908/hw0824.git
+    cd hw0824
     ```
 
 2. **Build the project**:
